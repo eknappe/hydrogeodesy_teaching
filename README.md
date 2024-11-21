@@ -1,0 +1,1 @@
+README: These notebooks and files were developed for CUASHI hydrogeodesy workshop in summer 2022 taught by E. Knappe and A. White. These materials are meant to be used in conjunction with resources and lectures given as part of that class.
